@@ -1,5 +1,10 @@
-.link{
-		cursor:pointer;
+.link {
+  background-color: #333;
+  color: #fff;
+  cursor:pointer;
+}
+.link:hover {
+  background-color: #59b1eb;
 }
 .link a{
 	position: absolute;
